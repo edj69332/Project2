@@ -33,10 +33,11 @@ No manipulations were used in this question
 
 
 ### Q2 Importance 
-This question is important because knowing what intake reasons lead to a high likelihood of being put to sleep allows the shelter to focus more on animals brought in for those reasons. If the intake reason has to do with returned pets due to poor behavior  for example, they can allocate more resources and attention to training those pets. The hope of this extra focus would be to decrease the percentage that are put to sleep, and increase the percentage that are released into the wild or adopted.
+This question is important because knowing what intake reasons lead to a high likelihood of being put to sleep allows the shelter to focus more on animals brought in for those reasons. If the intake reason has to do with returned pets due to poor behavior  for example, they can allocate more resources and attention to training those pets. The hope of this extra focus would be to decrease the percentage that are put to sleep, and increase the percentage that are released into the wild or adopted. Based on the results, the percentage of animals that were returned because the owner changed housing situations is 100% (13 total). While the data set gives us no way of figuring out why this trend exists, it is just as important to know that the trend exists so the shelter can put more effort into reducing this percentage, or figure out why the trend exists.
 
 ### Q2 Manipulations
 We created Created new variable in excel sheet called PTS_True*1. This variable codes all animals that were put to sleep as 1 and others as 0. This variable allowed the creation of a new calculated field in Tableau called  “Percentage Put To Sleep”. This field shows the percent of animals for that intake reason that were put to sleep  divided by the total number for that intake reason.
 ![AGV_vUc2Jt5t50BritoDtgoEjupqHIuA0kmzKEI5SM2VCaJG2kZ4nIiWrPg9FUmVuoLpcUiOfv8y42n1-aRGInPJKJ4jAX5UvzeB7VlTWwhEVEMO3V2oa2WO_mcK](https://github.com/user-attachments/assets/3bf5e46b-6a2c-43e4-a8d6-0eaaafa3f958)
 
 ![puttosleep PTS_True1](https://github.com/user-attachments/assets/4be12ff3-f513-4b74-81f1-accc76199c31)
+
